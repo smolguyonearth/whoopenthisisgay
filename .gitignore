@@ -2,7 +2,7 @@ data/
 data1/
 data2/
 .DS_Store
-working_code/
+# working_code/
 .vscode
 trashcan/
 data3/
