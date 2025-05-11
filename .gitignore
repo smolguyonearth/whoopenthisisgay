@@ -1,9 +1,6 @@
 data/
 data1/
 data2/
-.DS_Store
-# working_code/
-.vscode
-trashcan/
 data3/
-# keep/
+.DS_Store
+.vscode
